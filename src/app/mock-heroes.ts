@@ -1,9 +1,9 @@
-import {Hero } from './hero';
+import { hero } from './hero';
 
 export class MockHeroes {
 }
 
-export const HEROES: Hero[] = [
+export const HEROES: hero[] = [
 {id:11, name:'Dr Nice'},
 {id:12, name:'Narco'},
 {id:13, name:'Bombasto'},
